@@ -1,0 +1,7 @@
+base     mytpl
+author   kanehi
+email    kanehi@example.com
+date     2020-01-21
+name     My Template
+desc     DokuWiki's my template
+url      https://www.dokuwiki.org/template:dokuwiki
